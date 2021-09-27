@@ -1,0 +1,4 @@
+1 - Deve-se instalar o sistema na maquina local para testar 
+2 - Criar um banco de dados com nome de ("dados")
+3 - Importe o Backup(produtos) para essa base ("dados")
+4 - Usuário: admin / Senha : admin
